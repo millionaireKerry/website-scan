@@ -2,7 +2,7 @@ Website Audit Tool
 
 
 Professional website analysis tool for UK Business Automations
-Generate comprehensive, client-ready audit reports in seconds
+Generate comprehensive, client-ready audit reports in seconds.
 
 
 
